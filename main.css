@@ -1,0 +1,19 @@
+body {
+  background-color: #fafafa;
+}
+
+input[type='submit'] {
+  border: 1px solid #DDD;
+  background-color: white;
+  padding: 5px 20px;
+  border-radius: 3px;
+}
+
+input[type='submit']:hover {
+  cursor: pointer;
+  background-color: #FDFDFD;
+}
+
+div {
+  margin-top: 20px;
+}
