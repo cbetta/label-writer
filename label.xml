@@ -1,9 +1,9 @@
 <DieCutLabel Version="8.0" Units="twips">
-  <PaperOrientation>Portrait</PaperOrientation>
-  <Id>LargeAddress</Id>
-  <PaperName>30321 Large Address</PaperName>
+  <PaperOrientation>Landscape</PaperOrientation>
+  <Id>ZipDisk</Id>
+  <PaperName>30370 Zip Disk</PaperName>
   <DrawCommands>
-    <RoundRectangle X="0" Y="0" Width="2025" Height="5020" Rx="270" Ry="270"/>
+    <RoundRectangle X="0" Y="0" Width="2880" Height="3375" Rx="270" Ry="270"/>
   </DrawCommands>
   <ObjectInfo>
     <TextObject>
@@ -16,7 +16,7 @@
       <IsVariable>True</IsVariable>
       <HorizontalAlignment>Left</HorizontalAlignment>
       <VerticalAlignment>Top</VerticalAlignment>
-      <TextFitMode>ShrinkToFit</TextFitMode>
+      <TextFitMode>AlwaysFit</TextFitMode>
       <UseFullFontHeight>False</UseFullFontHeight>
       <Verticalized>False</Verticalized>
       <StyledText>
@@ -29,7 +29,7 @@
         </Element>
       </StyledText>
     </TextObject>
-    <Bounds X="332" Y="322" Width="1381" Height="4338"/>
+    <Bounds X="332" Y="322" Width="2880" Height="700"/>
   </ObjectInfo>
   <ObjectInfo>
     <TextObject>
@@ -42,7 +42,7 @@
       <IsVariable>True</IsVariable>
       <HorizontalAlignment>Left</HorizontalAlignment>
       <VerticalAlignment>Top</VerticalAlignment>
-      <TextFitMode>ShrinkToFit</TextFitMode>
+      <TextFitMode>AlwaysFit</TextFitMode>
       <UseFullFontHeight>False</UseFullFontHeight>
       <Verticalized>False</Verticalized>
       <StyledText>
@@ -55,7 +55,7 @@
         </Element>
       </StyledText>
     </TextObject>
-    <Bounds X="332" Y="922" Width="1381" Height="4338"/>
+    <Bounds X="332" Y="922" Width="2880" Height="700"/>
   </ObjectInfo>
   <ObjectInfo>
     <TextObject>
@@ -75,12 +75,12 @@
         <Element>
           <String>Line</String>
           <Attributes>
-            <Font Family="Arial" Size="12" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+            <Font Family="Arial" Size="14" Bold="False" Italic="False" Underline="False" Strikeout="False" />
             <ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
           </Attributes>
         </Element>
       </StyledText>
     </TextObject>
-    <Bounds X="332" Y="1522" Width="1381" Height="4338"/>
+    <Bounds X="342" Y="1522" Width="2880" Height="800"/>
   </ObjectInfo>
 </DieCutLabel>
